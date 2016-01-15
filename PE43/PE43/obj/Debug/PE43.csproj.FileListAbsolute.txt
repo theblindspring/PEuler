@@ -1,0 +1,6 @@
+P:\PEuler\PE43\PE43\bin\Debug\PE43.exe.config
+P:\PEuler\PE43\PE43\bin\Debug\PE43.exe
+P:\PEuler\PE43\PE43\bin\Debug\PE43.pdb
+P:\PEuler\PE43\PE43\obj\Debug\PE43.csprojResolveAssemblyReference.cache
+P:\PEuler\PE43\PE43\obj\Debug\PE43.exe
+P:\PEuler\PE43\PE43\obj\Debug\PE43.pdb

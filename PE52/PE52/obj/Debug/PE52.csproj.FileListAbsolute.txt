@@ -1,0 +1,6 @@
+P:\PEuler\PE52\PE52\bin\Debug\PE52.exe.config
+P:\PEuler\PE52\PE52\bin\Debug\PE52.exe
+P:\PEuler\PE52\PE52\bin\Debug\PE52.pdb
+P:\PEuler\PE52\PE52\obj\Debug\PE52.csprojResolveAssemblyReference.cache
+P:\PEuler\PE52\PE52\obj\Debug\PE52.exe
+P:\PEuler\PE52\PE52\obj\Debug\PE52.pdb

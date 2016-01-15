@@ -1,0 +1,6 @@
+P:\PEuler\PE48\PE48\bin\Debug\PE48.exe.config
+P:\PEuler\PE48\PE48\bin\Debug\PE48.exe
+P:\PEuler\PE48\PE48\bin\Debug\PE48.pdb
+P:\PEuler\PE48\PE48\obj\Debug\PE48.csprojResolveAssemblyReference.cache
+P:\PEuler\PE48\PE48\obj\Debug\PE48.exe
+P:\PEuler\PE48\PE48\obj\Debug\PE48.pdb

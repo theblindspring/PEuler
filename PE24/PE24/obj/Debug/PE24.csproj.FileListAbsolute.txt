@@ -1,0 +1,6 @@
+P:\PEuler\PE24\PE24\bin\Debug\PE24.exe.config
+P:\PEuler\PE24\PE24\bin\Debug\PE24.exe
+P:\PEuler\PE24\PE24\bin\Debug\PE24.pdb
+P:\PEuler\PE24\PE24\obj\Debug\PE24.csprojResolveAssemblyReference.cache
+P:\PEuler\PE24\PE24\obj\Debug\PE24.exe
+P:\PEuler\PE24\PE24\obj\Debug\PE24.pdb

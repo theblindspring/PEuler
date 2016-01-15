@@ -1,0 +1,6 @@
+P:\PEuler\PE47\PE47\bin\Debug\PE47.exe.config
+P:\PEuler\PE47\PE47\bin\Debug\PE47.exe
+P:\PEuler\PE47\PE47\bin\Debug\PE47.pdb
+P:\PEuler\PE47\PE47\obj\Debug\PE47.csprojResolveAssemblyReference.cache
+P:\PEuler\PE47\PE47\obj\Debug\PE47.exe
+P:\PEuler\PE47\PE47\obj\Debug\PE47.pdb

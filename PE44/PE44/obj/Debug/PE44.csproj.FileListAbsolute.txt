@@ -1,0 +1,6 @@
+P:\PEuler\PE44\PE44\bin\Debug\PE44.exe.config
+P:\PEuler\PE44\PE44\bin\Debug\PE44.exe
+P:\PEuler\PE44\PE44\bin\Debug\PE44.pdb
+P:\PEuler\PE44\PE44\obj\Debug\PE44.csprojResolveAssemblyReference.cache
+P:\PEuler\PE44\PE44\obj\Debug\PE44.exe
+P:\PEuler\PE44\PE44\obj\Debug\PE44.pdb

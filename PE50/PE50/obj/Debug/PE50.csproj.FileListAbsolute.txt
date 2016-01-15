@@ -1,0 +1,6 @@
+P:\PEuler\PE50\PE50\bin\Debug\PE50.exe.config
+P:\PEuler\PE50\PE50\bin\Debug\PE50.exe
+P:\PEuler\PE50\PE50\bin\Debug\PE50.pdb
+P:\PEuler\PE50\PE50\obj\Debug\PE50.csprojResolveAssemblyReference.cache
+P:\PEuler\PE50\PE50\obj\Debug\PE50.exe
+P:\PEuler\PE50\PE50\obj\Debug\PE50.pdb

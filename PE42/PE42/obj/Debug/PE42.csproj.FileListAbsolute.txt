@@ -1,0 +1,5 @@
+P:\PEuler\PE42\PE42\bin\Debug\PE42.exe.config
+P:\PEuler\PE42\PE42\bin\Debug\PE42.exe
+P:\PEuler\PE42\PE42\bin\Debug\PE42.pdb
+P:\PEuler\PE42\PE42\obj\Debug\PE42.exe
+P:\PEuler\PE42\PE42\obj\Debug\PE42.pdb

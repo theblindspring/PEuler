@@ -1,0 +1,6 @@
+P:\PEuler\PE51\PE51\bin\Debug\PE51.exe.config
+P:\PEuler\PE51\PE51\bin\Debug\PE51.exe
+P:\PEuler\PE51\PE51\bin\Debug\PE51.pdb
+P:\PEuler\PE51\PE51\obj\Debug\PE51.exe
+P:\PEuler\PE51\PE51\obj\Debug\PE51.pdb
+P:\PEuler\PE51\PE51\obj\Debug\PE51.csprojResolveAssemblyReference.cache
