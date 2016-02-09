@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE67", "PE67\PE67.csproj", "{CFCE2C10-F942-4BD9-9465-5FCD419A883B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCE2C10-F942-4BD9-9465-5FCD419A883B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCE2C10-F942-4BD9-9465-5FCD419A883B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCE2C10-F942-4BD9-9465-5FCD419A883B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCE2C10-F942-4BD9-9465-5FCD419A883B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
